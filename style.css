@@ -19,8 +19,13 @@ font-weight: bolder;
 
 .navbar-light .navbar-brand {
 color: white;
-font-size: 30px;
+font-size: 20px;
 }
+.navbar-light .navbar-brand:hover{
+    color: rgb(212, 89, 7);
+}
+
+
 @media(max-width: 992px){
 
 .navbar-expand-lg{
@@ -48,11 +53,10 @@ padding-top:20px;
 padding-bottom:20px;
 }  
 @media only screen and (max-width: 992px) {
-            h3{
-                padding-left:0px;
-        }
-    
-    }
+h3{
+padding-left:0px;
+}
+}
 
 
 /*******h5 CSS*******/
