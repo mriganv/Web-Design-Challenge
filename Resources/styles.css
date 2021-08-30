@@ -1,0 +1,28 @@
+
+body {
+  font-family: sans-serif;
+  font-size: 1.1em;
+  background-color:rgb(221, 212, 207);
+}
+.navbar-brand{
+    
+}
+.nav-item{
+    
+    -moz-text-size-adjust: 0.25px;
+   }
+        
+.nav-link{
+    font-size:10px; 
+    text-decoration: none;
+    color: black;
+    
+
+
+}
+
+
+
+
+
+

@@ -1,0 +1,151 @@
+
+/* <----Body---> */
+body{
+    background-color: gainsboro;
+    }
+
+@media only screen and (max-width: 992px) {
+            body {
+                background-color: white
+            }
+        }
+
+/**********Navigation Bar css and Media query*********/
+.navbar-brand{
+background-color: #0a9e97;
+padding: 5px;
+font-weight: bolder;
+}
+
+.navbar-light .navbar-brand {
+color: white;
+font-size: 30px;
+}
+@media(max-width: 992px){
+
+.navbar-expand-lg{
+background-color: #0a9e97 !important;
+margin-bottom:0px;
+padding-bottom:0px;
+}
+}
+
+
+/******Text******/
+.text{
+padding-top: 10px;
+padding-bottom:10px;
+}  
+
+/*******h3 CSS and Media query*************/
+h3 {
+color:#0a9e97;
+text-align: left;
+font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding-left:20px;
+padding-top:20px;
+padding-bottom:20px;
+}  
+@media only screen and (max-width: 992px) {
+            h3{
+                padding-left:0px;
+        }
+    
+    }
+
+
+/*******h5 CSS*******/
+h5{
+color:#0a9e97;
+padding:20px;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bold;
+text-align: center;
+margin-bottom: 0px;
+}
+
+/********Paragraph CSS and Media query*********/
+
+p {
+text-align: justify;
+font-size:15px;
+
+}
+@media only screen and (max-width: 992px) {
+p {
+font-size: 15px !important;
+margin-left:0px;
+    }
+}
+
+/***********Img CSS**********/
+img{
+
+float: left;
+margin:5px;
+}
+
+.img-fluid:hover {
+border: solid 2px #0a9e97;
+margin: -2px;
+}
+
+/**********Data Table***********/
+table table-striped{ 
+margin-left:0px;
+}
+
+.table-responsive{
+margin-left: -20px;
+}
+
+
+/********Col-md-12 CSS and Media query********/
+
+/* <------------------>*/
+.col-md-12{
+padding:40px;
+}
+
+@media(max-width: 992px){
+.col-md-12{
+padding:0px;
+}
+}
+/********Container Media query**********/
+
+.container {
+border: 2px solid #0a9e97;
+border-radius: 10px;
+}  
+
+@media(max-width: 992px){
+
+.container{
+padding-left: 25px;
+padding-right:25px;
+}
+}
+
+
+/********Datacontainer CSS and Media query********/
+
+
+.datacontainer{
+padding-top:40px;
+padding-left:150px;
+padding-right:150px;
+}
+    
+@media only screen and (max-width: 992px) {
+.datacontainer{
+padding-left: 6px;
+padding-right:0px;}
+
+}
+/*********************************************************************************************************/
+
+
+
