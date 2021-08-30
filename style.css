@@ -114,10 +114,11 @@ padding:40px;
 padding:0px;
 }
 }
+
 /********Container Media query**********/
 
 .container {
-border: 2px solid #0a9e97;
+border: 2.5px solid #0a9e97;
 border-radius: 10px;
 }  
 
@@ -132,12 +133,13 @@ padding-right:25px;
 
 /********Datacontainer CSS and Media query********/
 
-
 .datacontainer{
 padding-top:40px;
-padding-left:150px;
-padding-right:150px;
+padding-right:60px;
+padding-left:60px;
 }
+
+
     
 @media only screen and (max-width: 992px) {
 .datacontainer{
