@@ -1,4 +1,4 @@
-## Deployed Website Link -  https://mriganv.github.io/Web-Design-Challenge/
+### Deployed Website Link -  https://mriganv.github.io/Web-Design-Challenge/
 
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
